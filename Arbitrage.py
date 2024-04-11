@@ -55,7 +55,6 @@ def calculate_swap_amounts(initial_amount, liquidity_paths):
 
 if __name__ == '__main__':
     new_liq = augment_liquidity(liquidity)
-    print(new_liq)
 
     # input_path_list = []
     # for i in range( 1, 4 + 1 ):
